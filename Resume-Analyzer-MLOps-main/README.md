@@ -1,26 +1,26 @@
-# AI Resume Analyzer
+# 🚀 AI Resume Intelligence Platform  
 
-This project is a simple AI-based Resume Analyzer built using Python.
+An AI-powered Resume Analyzer and Job Matching system developed using Python, NLP and Machine Learning techniques.
 
-It analyzes resumes and provides basic insights like:
-- Resume skills detection
-- Resume scoring
-- Matching resume with job description
+## ⭐ Features  
 
-## Technologies Used
-- Python
-- Machine Learning
-- NLP (Natural Language Processing)
+✅ Resume parsing and skill extraction  
+✅ ATS compatibility scoring  
+✅ Resume and Job Description similarity matching  
+✅ Skill gap identification  
+✅ AI-based recommendations  
 
-## How to Run
+## 🧠 Tech Stack  
 
-1. Install requirements
-pip install -r requirements.txt
+- Python  
+- FastAPI  
+- NLP (spaCy / ML models)  
+- Scikit-learn  
+- Machine Learning  
+- REST API Architecture  
 
-2. Run the application
-python app.py
+## 📊 Project Purpose  
 
-## Author
-Vipul Kaitke
+This project is designed to simulate a real-world AI recruitment assistant system that helps in evaluating candidate resumes and suggesting job fitment using Natural Language Processing.
 
-This project was developed as a personal AI/ML learning project.
+## ▶️ How to Run  
