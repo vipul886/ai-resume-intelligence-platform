@@ -1,0 +1,95 @@
+{
+  "jobs": [
+    {
+      "id": "job_1",
+      "title": "Senior Python Developer",
+      "company": "Tech Corp",
+      "description": "We are seeking an experienced Python developer with strong background in web development. Must have experience with Django or Flask, RESTful APIs, and database design. Knowledge of Docker and CI/CD is a plus.",
+      "required_skills": ["python", "django", "flask", "postgresql", "docker", "git"],
+      "experience_years": 5,
+      "location": "Remote"
+    },
+    {
+      "id": "job_2",
+      "title": "Machine Learning Engineer",
+      "company": "AI Solutions Inc",
+      "description": "Looking for ML engineer to develop and deploy machine learning models. Experience with TensorFlow, PyTorch, and scikit-learn required. Strong background in Python and data processing.",
+      "required_skills": ["python", "machine learning", "tensorflow", "pytorch", "pandas", "numpy", "deep learning"],
+      "experience_years": 3,
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": "job_3",
+      "title": "Full Stack Developer",
+      "company": "WebDev Pro",
+      "description": "Full stack developer needed for building modern web applications. Frontend: React, TypeScript. Backend: Node.js, Express. Database: MongoDB. Experience with cloud platforms (AWS/Azure) preferred.",
+      "required_skills": ["javascript", "react", "node.js", "typescript", "mongodb", "aws", "docker"],
+      "experience_years": 4,
+      "location": "New York, NY"
+    },
+    {
+      "id": "job_4",
+      "title": "Data Scientist",
+      "company": "Analytics Hub",
+      "description": "Data scientist to analyze large datasets and build predictive models. Strong statistical background required. Experience with Python, R, SQL, and data visualization tools.",
+      "required_skills": ["python", "r", "sql", "machine learning", "data analysis", "pandas", "matplotlib", "statistical analysis"],
+      "experience_years": 3,
+      "location": "Boston, MA"
+    },
+    {
+      "id": "job_5",
+      "title": "DevOps Engineer",
+      "company": "Cloud Systems",
+      "description": "DevOps engineer to manage cloud infrastructure and CI/CD pipelines. Experience with AWS, Docker, Kubernetes, and Terraform required. Strong scripting skills in Python or Bash.",
+      "required_skills": ["aws", "docker", "kubernetes", "terraform", "jenkins", "python", "linux", "ci/cd"],
+      "experience_years": 4,
+      "location": "Seattle, WA"
+    },
+    {
+      "id": "job_6",
+      "title": "Backend Developer",
+      "company": "API Services",
+      "description": "Backend developer for building scalable APIs. Experience with FastAPI or Django REST Framework. Knowledge of microservices architecture and message queues (RabbitMQ/Kafka).",
+      "required_skills": ["python", "fastapi", "django", "postgresql", "redis", "docker", "microservices"],
+      "experience_years": 3,
+      "location": "Austin, TX"
+    },
+    {
+      "id": "job_7",
+      "title": "AI Research Engineer",
+      "company": "Research Labs",
+      "description": "AI research engineer to work on cutting-edge NLP and computer vision projects. PhD or Master's degree preferred. Strong publication record is a plus.",
+      "required_skills": ["python", "pytorch", "tensorflow", "nlp", "computer vision", "deep learning", "research"],
+      "experience_years": 2,
+      "location": "Palo Alto, CA"
+    },
+    {
+      "id": "job_8",
+      "title": "Software Engineer",
+      "company": "StartupXYZ",
+      "description": "Generalist software engineer for a fast-paced startup. Full stack experience preferred. Work on various technologies including web, mobile, and backend systems.",
+      "required_skills": ["python", "javascript", "react", "sql", "git", "agile"],
+      "experience_years": 2,
+      "location": "Remote"
+    },
+    {
+      "id": "job_9",
+      "title": "Data Engineer",
+      "company": "Big Data Corp",
+      "description": "Data engineer to build and maintain data pipelines. Experience with Apache Spark, Airflow, and cloud data warehouses (Snowflake/Redshift). Strong SQL and Python skills.",
+      "required_skills": ["python", "sql", "apache spark", "airflow", "aws", "data pipelines", "etl"],
+      "experience_years": 4,
+      "location": "Chicago, IL"
+    },
+    {
+      "id": "job_10",
+      "title": "Frontend Developer",
+      "company": "UI Experts",
+      "description": "Frontend developer specializing in React and modern JavaScript. Experience with TypeScript, Redux, and CSS-in-JS. Understanding of web performance optimization.",
+      "required_skills": ["javascript", "react", "typescript", "html", "css", "redux", "webpack"],
+      "experience_years": 3,
+      "location": "Los Angeles, CA"
+    }
+  ]
+}
+
